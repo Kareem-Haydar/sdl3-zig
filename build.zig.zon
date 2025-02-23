@@ -1,0 +1,5 @@
+.{
+    .name = "sdl3-zig",
+    .version = "1.0.0",
+    .paths = .{""},
+}
